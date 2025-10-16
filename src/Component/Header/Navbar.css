@@ -1,0 +1,5 @@
+.menu li a.active {
+  color: #22c55e; /* green */
+  font-weight: bold;
+  text-decoration: underline;
+}
